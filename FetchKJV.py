@@ -1,3 +1,5 @@
+__version__ = "1.0.0"
+
 from pynput import keyboard as pynput_keyboard
 from pynput.keyboard import Key, KeyCode, Controller
 import shutil
