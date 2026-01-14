@@ -1,0 +1,25 @@
+{
+    "hotkey": {
+        "key": "c",
+        "ctrl": false,
+        "alt": true,
+        "shift": false
+    },
+    "auto_close_seconds": 3,
+    "popup": {
+        "bg_small": "#f7f5ea",
+        "bg_large": "#f7f5ea",
+        "text_color_small": "#beb09c",
+        "font_large": [
+            "Segoe UI",
+            11
+        ],
+        "font_small": [
+            "Segoe UI",
+            14,
+            "bold"
+        ],
+        "width_large": 90,
+        "height_large": 25
+    }
+}
